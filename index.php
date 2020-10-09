@@ -445,9 +445,9 @@
               </g>
             </svg>
           </div>     
-        </div>
+        </div><br/>
         <footer>
-            
+            Github: https://github.com/jihob28th/LE5.1_Aguilar_Carl
         </footer>
     </body>
 </html>
